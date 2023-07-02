@@ -1,0 +1,15 @@
+header {
+  height: 80px;
+}
+
+main {
+  height: calc(100vh - 140px);
+}
+
+footer {
+  height: 60px;
+}
+
+.signup {
+  height: 350px;
+}
